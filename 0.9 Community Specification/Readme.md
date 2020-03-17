@@ -13,3 +13,7 @@ The Commununity Specification allows you to start a specification development ef
 A primarily difference between open source licenses and specification licenes is that open source licenses provide intellectually property coverage for that specific implementation of the code.  Specification licenes are designed to provide intellectual property coverage for independent implementations of the specification.  Because of this, if you use and open source license for specifications, people implementing those specifications may be doing so without any meaningfull copyright or patent grants.
 
 Also, open source and standards licenses tend to have different coverage scopes.  Open source licenses generally cover only a contributor's contributions.  Specification licenses, however, cover implementations of the entire specification, regardless of who made the actual contribution.  
+
+## Who developed the Community Specification
+
+The Community Specification has been developed via the [Joint Development Foundation](http://www.jointdevelopment.org), with inspiration from the [Open Web Foundation agreements](http://openwebfoundation.org) and the [Alliance for Open Media Patent License  1.0](http://aomedia.org/license/patent-license/).
