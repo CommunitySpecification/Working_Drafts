@@ -4,9 +4,9 @@
 
 The Community Specification process is a repository-based approach for creating standards and specifications, such as in a GitHub organization. 
 
-## What's the benefit?
+## What is the benefit?
 
-The Commununity Specification allows you to start a specification development effort as easily as an open source project.  And, becuase it incorporates the terms and processes required for standards and specification development, it provides the basis to take your specification to other standards bodies, including international standards bodies, for formal standardization if you'd like.
+The Commununity Specification allows you to start a specification development effort as easily as an open source project.  The Community Specification incorporates the terms and processes required for standards and specification development. It provides the basis to take your specification to other standards bodies, including international standards bodies, for formal standardization if your community desires to pursue those options.
 
 ## Why shouldn't I just use an open source license for my specifications?
 
