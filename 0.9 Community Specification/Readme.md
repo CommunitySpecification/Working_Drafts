@@ -2,7 +2,7 @@
 
 ## What is the Community Specification For?
 
-The Community Specification process is a repository-based approach for creating standards and specifications in version control systems, such as in a Git organization. 
+The Community Specification process is a repository-based approach for creating standards and specifications in version control systems, such as Git. 
 
 ## What is the benefit?
 
